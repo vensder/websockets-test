@@ -1,4 +1,5 @@
-# websockets-test
+# Websockets-test
+
 Simple python app for web-sockets testing in a docker
 
 How to run:
@@ -8,3 +9,5 @@ docker run -d -p 8080:8080 vensder/websockets-test
 ```
 
 Open http://localhost:8080 and send test message.
+
+![Screenshot](./img/screenshot.png?raw=true)
