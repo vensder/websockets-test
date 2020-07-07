@@ -8,7 +8,3 @@ docker run -d -p 8080:8080 vensder/websockets-test
 ```
 
 Open http://localhost:8080 and send test message.
-
-
-Original article: http://www.giantflyingsaucer.com/blog/?p=4586
-
